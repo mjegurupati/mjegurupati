@@ -93,11 +93,25 @@ I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Mas
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mounicajegurupati&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mounicajegurupati&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounicajegurupati&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 📫 Let’s Connect
 
 - 📍 Based in **Boca Raton, FL**  
 - 📧 Email: [mounicajegurupati01@gmail.com](mailto:mounicajegurupati01@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mounica-jegurupati-v18201008/)  
-
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mounica-jegurupati-v18201008/)  
 
