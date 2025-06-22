@@ -19,13 +19,7 @@
 
 I'm Mounica, a **Data Analyst** and recent graduate with a **Master’s in Computer Science** from Florida Atlantic University (GPA: 3.9). I bring nearly **3 years of industry experience** solving business and technical problems using **Python, SQL, GCP, GenAI, and LLMs**.
 
-I driven by my passion to turn raw information into powerful insights and intelligent solutions. I enjoy working on projects that intersect **AI, cloud platforms, automation, and human-centered design**.
-
-I'm particularly excited by:
-- ✨ Generative AI for real-world applications (RAG, LangChain, LLMs)
-- 📊 Data visualization and storytelling with tools like PowerBI, Tableau & Streamlit.
-- 🏥 Healthcare tech & personalized recommendations
-- ☁️ Cloud-native analytics (GCP, AWS, CI/CD)
+Results-driven Healthcare Data Analyst with a focus on designing RAG workflows and deploying Generative AI solutions for real-world impact. Experienced in Python, SQL, EDA, and BI tools like Tableau and Power BI. Passionate about applying AI to improve healthcare outcomes by transforming complex data into clear, actionable insights.
 
 ---
 
@@ -61,7 +55,29 @@ Digithon	                                                                       
 
 
 ---
+#### Projects
+ModMed AI Scribe Feedback Triaging | Agentic AI, RAG, LangGraph, Databricks                                       May 2025 - Present                                                                                                         
+•	Designed and implemented an agentic LangGraph workflow to triage “Not Great” feedback from AI Scribe, improving user experience and refining model performance.
+•	Automated classification of negative feedback into four actionable categories: User Error, Model Error (routed to MD), Mapping Error (routed to PD), and Others, ensuring efficient issue resolution.
+•	Leveraged GPT O3 model endpoint for reasoning and classification using advanced prompt engineering and few-shot learning, significantly improving triage accuracy and reducing manual intervention.
+Web_query | RAG, GenAI, Langchain, Streamlit                                                                                                      March 2025                                                              
+•	Built a dynamic chatbot web application using Streamlit, LangChain, and Gemini Flash to enable conversational querying of website content.  
+•	Implemented web scraping with LangChain’s WebBaseLoader, chunked data using RecursiveCharacterTextSplitter, and stored semantic embeddings in a FAISS vector store.  
+•	Developed a Conversational Retrieval Chain with memory support to retrieve context-aware responses from embedded web data using Google’s Gemini LLM.
+AI Healthcare Assistant | RAG, Python, Next JS, Tailwind CSS                                                                                 February 2025
+•	Developed an AI-powered healthcare assistant that provides personalized diet and fitness recommendations for health-conscious individuals aged 20 to 50.
+•	Implemented a 70-30 recommendation model, where 70% of insights are derived from the user’s lifestyle and medical history, and 30% from genetic health data.
+Remedy| Python, Machine Learning, Scikit-learn, Natural Language Processing	                             Aug-Dec 2023
+•	Designed a Python-based recommendation chatbot for patients to offer hospital recommendations considering diseases, user proximity, consultation fees, and availability of essential medical facilities like operation theatres.
 
+---
+
+#### Certifications and Achievements
+
+•	Secured 2nd place at the CMBB Bio-Tech Bridge Hackathon, organized by South Florida Tech Hub and Florida Atlantic University (FAU), by leading a team to develop an AI healthcare assistant focused on promoting longevity and mitigating the effects of aging.
+•	Databricks Generative AI Associate Certificate in progress
+
+---
 
 ### 📫 Let’s Connect
 
