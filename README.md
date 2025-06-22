@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-I'm Vishnu, a **Data Analyst** and recent graduate with a **Master’s in Data Science & Analytics** from Florida Atlantic University (GPA: 3.8). I bring nearly **3 years of industry experience** solving business and technical problems using **Python, SQL, GCP, GenAI, and LLMs**.
+I'm Mounica, a **Data Analyst** and recent graduate with a **Master’s in Computer Science** from Florida Atlantic University (GPA: 3.9). I bring nearly **3 years of industry experience** solving business and technical problems using **Python, SQL, GCP, GenAI, and LLMs**.
 
 I driven by my passion to turn raw information into powerful insights and intelligent solutions. I enjoy working on projects that intersect **AI, cloud platforms, automation, and human-centered design**.
 
@@ -31,81 +31,37 @@ I'm particularly excited by:
 
 ### 💼 Work Experience
 
-#### 💻 DXC Technology (Client: Deutsche Bank) – *Associate Professional Software Engineer*
-**June 2022 – March 2023**
-- Designed cloud-based storage and backup systems on **GCP** for secure, scalable access to Deutsche Bank’s global data.
-- Built ETL pipelines and automated large-scale reporting using **Python & SQL**, optimizing data workflows across departments.
-- Collaborated with cross-functional teams in aligning data governance policies with client requirements.
+#### AI-Data Analyst Intern                                                                                                                                          	 Boca Raton, FL
+ModMed, Product Development Team                                                                                                                                     May 25 - Present                              
+•	Developed agentic workflows using LangGraph to triage feedback and enhance model performance for ModMed’s AI Scribe, improving transcription accuracy and user experience.
+•	Collaborated with data engineers and clinicians to integrate updated medical terminology and address enhancement requests while maintaining HIPAA compliance.
+•	Completed Databricks Generative AI training and implemented end-to-end RAG pipelines, including data preprocessing, deployment, and monitoring aligned with MLOps best practices.
+•	Analyzed model outputs and user feedback to generate actionable insights, driving continuous improvements to the scribe system through iterative data analysis.
+•	Completed trainings in InfoSec, Compliance (Ethical Hacking), and Application Development, with certifications earned.
+#### Teaching Assistant/ Tutor	                                                                                                                                        Boca Raton, FL
+Center for Teaching and Learning, FAU	                                                                                                                              Aug 2024- May 2025
+•	Assisted students in understanding mathematical concepts in College Algebra and Statistics.
+•	Earned CRLA Certification under the International Tutor Training Program standards.
+#### Software Engineer (ICE Project - Telecom Billing Solutions)	                                                                                                   Hyderabad, India
+Netcracker Technology	                                                                                                                                           April 2022 –June 2023
+•	 Managed PSUPICE support tickets by analyzing and replicating issues in a local environment to identify root causes and improve system reliability.
+•	Resolved issues by merging Problem Request (PR) changes, applying C++ code fixes, and developing SQL scripts to validate table population and data integrity.
+•	Reduced debugging time by 30% through C++ code optimization, accelerating issue resolution and enhancing overall development efficiency.
+•	Collaborated with the build and QA teams to generate and validate Release Candidates (RCs) before patch deployment, ensuring seamless integration and accurate documentation.
+#### Data Analyst                                                                                                                                                    Hyderabad, India
+Sennight Technologies PVT Ltd                                                                                                                                     Aug 2020 – Sep 2021
+•	Analyzed healthcare ERP data using Python and SQL to uncover trends in patient flow, billing, and resource utilization.
+•	Developed preliminary Tableau dashboards to assist senior analysts in visualizing key hospital performance indicators.
+•	Cleaned and transformed over 100K records, improving data quality and supporting automated reporting processes.
+•	Collaborated with the analytics team to validate data accuracy for ERP migration projects and prepared reports for stakeholder review.
+#### Data Analyst Intern	                                                                                                                                           Hyderabad, India
+Digithon	                                                                                                                                                      June 2020 – July 2020
+•	Developed hands-on machine learning and deep learning expertise by working with real-world datasets- utilized SQL to query, clean, and preprocess structured data for analysis.
+•	Implemented and compared deep learning architectures, including ResNet, VGGNet, and a custom neural network, using Keras to analyze Alzheimer's disease data and assess model accuracy.
 
-#### ☁️ DXC Technology – *Software Engineer Intern (Cloud Platforms)*
-**Jan 2022 – June 2022**
-- Gained hands-on experience in GCP, Linux, and Python for infrastructure automation.
-- Completed Infra Ops & Dell ISM V5 certifications.
-- Supported real-time data backups and cloud migration for enterprise clients.
-
-#### 📈💻 Sennight Technology – *Data Analyst*
-**Nov 2020 – Dec 2021**
-- Led data automation for hospital ERP systems, improving patient flow & bed allocation accuracy by 15%.
-- Created automated dashboards with **Tableau** and validated 500K+ records during ERP migration.
-- Focused on healthcare analytics and operational efficiency.
-
----
-
-### 🚀 Projects That I’m Proud Of
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [📈 Stock Predictor](https://github.com/VishnuThogiti139/stock-Predictor) | AI-driven web app that analyzes historical stock trends and forecasts future movements with LLMs. Features Buy/Sell/Hold decisions and peer suggestions. | Python, Streamlit, YFinance, LLM |
-| [👥 Employee Summary](https://github.com/VishnuThogiti139/employee_summary) | Web app that turns employee data into personalized summaries using LLMs. Autogenerates SQL queries to get data from multipul tables and integrates contact security. | Python, MySQL, Streamlit |
-| [☕ Coffee Finder](https://github.com/VishnuThogiti139/Coffee_Finder) | LLM-powered app that finds nearby cafes with human-like descriptions. Uses OpenStreetMap, LangChain, and Google GenAI. | LangChain, GenAI, Streamlit, Python |
-| 🧠 Health Habit *(Private/In Progress)* | Built a personalized AI healthcare assistant using a 70:30 model (user data and family history) to recommend food, fitness, and lifestyle changes. | RAG, Python, Next.js, GenAI |
-| [📊 Real Estate Dashboard](https://public.tableau.com/app/profile/vishnu.thogiti/vizzes) | Used **Excel + Tableau** to identify key property value drivers, predict price growth, and map future investment opportunities. | Excel, Tableau, Gantt charts, clustering |
-
----
-
-### 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-GenAI-green?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-Gemini-informational?style=for-the-badge&logo=openai)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-✅**Technical skills:** Python (Pandas, PyTorch, Scikit-learn), R, Streamlit, FastAPI, MySQL, Oracle, SQL Server.
-
-✅**AI/ML:** LLMs (Gemini), LangChain, NLP, Scikit-learn, TensorFlow, Retrieval-Augmented Generation (RAG).
-
-✅**Visualization & Tools:** Power BI, Tableau, Excel (PivotTables, Goal Seek), PowerPoint, Adobe, Git, Bash, Linux/Unix, CI/CD (basic), Jira, Cursor, VS code, Visio.
-
-✅**Cloud:** Google Cloud (Certified), Amazon Web Services (EC2, Lambda, AWS SageMaker).
-
-✅**Soft Skills:** Strong communication (written & verbal), analytical thinking, problem-solving, positive attitude.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuThogiti139&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VishnuThogiti139&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Certifications & Achievements
-- ✅ **Google Cloud Certified – Associate Cloud Engineer**
-- ✅ Dell EMC Information Storage & Management v5.0
-- ✅ Infra Ops Foundation Certified
-- 🥈 **2nd Place – CMBB BioTech Bridge Hackathon** for building an AI assistant promoting health & longevity
-
----
 
 ### 📫 Let’s Connect
 
