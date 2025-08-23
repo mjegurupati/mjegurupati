@@ -25,16 +25,17 @@ I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Mas
 
 ### 💼 Experience
 
+**Teaching Assistant** – *Center for Teaching and Learning, FAU*  
+📅 Aug 2024 – Present 
+- Guided students in applying algorithms and mathematical techniques to data analysis and problem solving, reinforcing statistics skills used in data science and analytics.
+- Designed structured learning approaches to help students build data-driven decision-making skills and strengthen foundations for analytics-focused coursework.
+  
 **AI-Data Analyst Intern** – *ModMed (Boca Raton, FL)*  
-📅 May 2025 – Present  
+📅 May 2025 – Aug 2025 
 - Built LangGraph-based agentic workflows for triaging AI Scribe feedback, enhancing transcription accuracy and model performance.  
 - Designed and deployed RAG pipelines with Databricks, ensuring HIPAA-compliant feedback loops and robust monitoring.  
 - Collaborated with data engineers and clinicians to refine medical terminology models and reduce feedback resolution time.  
 - Completed training in InfoSec, Compliance, and Ethical Hacking.
-
-**Teaching Assistant** – *Center for Teaching and Learning, FAU*  
-📅 Aug 2024 – May 2025  
-- Supported students in College Algebra and Statistics; CRLA-certified tutor.
 
 **Software Engineer** – *Netcracker Technology, Hyderabad*  
 📅 Apr 2022 – Jun 2023  
