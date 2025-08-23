@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mounica Jegurupati</h1>
 
 <p align="center">
-  🎓 AI & Data Science Intern | Master’s in Computer Science (FAU) | Healthcare & GenAI Enthusiast
+  🎓 Ex- AI & Data Science Intern @ModMed | Master’s in Computer Science (FAU) | Data Analytics & GenAI Enthusiast
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Master’s in Computer Science from **Florida Atlantic University** (GPA: 3.9). I bring nearly **3 years of experience** across healthcare analytics, machine learning, and Generative AI solutions.
+I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Master’s in Computer Science from **Florida Atlantic University** (GPA: 3.9). I bring nearly **3 years of experience** across data analytics, machine learning, and Generative AI solutions.
 
-💡 My strengths lie in transforming complex datasets into actionable insights and deploying **RAG pipelines**, **LangGraph agentic workflows**, and **LLMs** to solve real-world problems—especially in the healthcare domain.
+💡 My strengths lie in transforming complex datasets into actionable insights and deploying **RAG pipelines**, **LangGraph agentic workflows**, and **LLMs** to solve real-world problems and automate manual tasks.
 
 ---
 
