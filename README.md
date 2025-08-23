@@ -30,7 +30,7 @@ I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Mas
 - Guided students in applying algorithms and mathematical techniques to data analysis and problem solving, reinforcing statistics skills used in data science and analytics.
 - Designed structured learning approaches to help students build data-driven decision-making skills and strengthen foundations for analytics-focused coursework.
   
-**AI-Data Analyst Intern** – *ModMed (Boca Raton, FL)*  
+**AI-Data Science Intern** – *ModMed (Boca Raton, FL)*  
 📅 May 2025 – Aug 2025 
 - Built LangGraph-based agentic workflows for triaging AI Scribe feedback, enhancing transcription accuracy and model performance.  
 - Designed and deployed RAG pipelines with Databricks, ensuring HIPAA-compliant feedback loops and robust monitoring.  
