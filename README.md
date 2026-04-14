@@ -17,13 +17,19 @@
 
 ### 🧠 About Me
 
-I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Master’s in Computer Science from **Florida Atlantic University** (GPA: 3.9). I bring nearly **3 years of experience** across data analytics, machine learning, and Generative AI solutions.
-
-💡 My strengths lie in transforming complex datasets into actionable insights and deploying **RAG pipelines**, **LangGraph agentic workflows**, and **LLMs** to solve real-world problems and automate manual tasks.
+I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Master’s in Computer Science from **Florida Atlantic University** (GPA: 3.9). I bring nearly **5 years of experience** across data analytics, machine learning, and Generative AI solutions.
 
 ---
 
 ### 💼 Experience
+**Senior Data Analyst** -*Infinity Sales Group (ISG)*                                                                                                              📅 Sep 2025 – Present                                                                              
+-Analyze large transactional and operational datasets using SQL and Python to identify performance trends, revenue leakage, anomalies, and key performance drivers for provider engagement.
+-Built and maintain Power BI dashboards for P&L analysis, payment reporting, churn analysis, revenue forecasting, and rate catalog visibility, improving executive access to core KPIs and reducing time spent on manual reporting.
+-Automated ETL workflows in Microsoft Fabric, cutting recurring manual effort by an estimated 40% and improving the timeliness of stakeholder reporting.
+-Perform data validation, reconciliation, and quality checks across multiple source systems (APIs, SFTP, and manual drop feed), improving reporting consistency and strengthening audit readiness.
+-Partner with accounting, operations, and data teams to turn business questions into practical reporting and analytics solutions used for day-to-day decision-making.
+-Support audit and forecast models for multiple providers to better understand customer behavior and provider engagement.
+-Conduct ad hoc analysis and scenario modeling for leadership, helping uncover operational gaps, prioritize actions, and support revenue optimization and marketing initiatives.
 
 **Teaching Assistant** – *Center for Teaching and Learning, FAU*  
 📅 Aug 2024 – Present 
@@ -43,7 +49,7 @@ I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Mas
 - Built and validated Release Candidates for production patching.
 
 **Data Analyst** – *Sennight Technologies, Hyderabad*  
-📅 Aug 2020 – Sep 2021  
+📅 Aug 2019 – Sep 2021  
 - Analyzed healthcare ERP data; built Tableau dashboards for hospital ops.  
 - Validated over 100K records for ERP migration accuracy.
 
