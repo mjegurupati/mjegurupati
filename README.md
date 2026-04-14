@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mounica Jegurupati</h1>
 
 <p align="center">
-  🎓 Ex- AI & Data Science Intern @ModMed | Master’s in Computer Science (FAU) | Data Analytics & GenAI Enthusiast
+  🎓 Senior Data Analyst @ISG | Master’s in Computer Science (FAU) | Data Analytics & GenAI Enthusiast
 </p>
 
 <p align="center">
