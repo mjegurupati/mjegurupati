@@ -33,8 +33,8 @@ I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Mas
 
 **Teaching Assistant** – *Center for Teaching and Learning, FAU*  
 📅 Aug 2024 – Present 
-- Guided students in applying algorithms and mathematical techniques to data analysis and problem solving, reinforcing statistics skills used in data science and analytics.
-- Designed structured learning approaches to help students build data-driven decision-making skills and strengthen foundations for analytics-focused coursework.
+- Developed dashboards and summary reports highlighting trends in student performance, enabling more targeted and effective teaching strategies. 
+- Collaborated with faculty to suggest student-friendly instructional improvements based on performance insights and engagement patterns.
   
 **AI-Data Science Intern** – *ModMed (Boca Raton, FL)*  
 📅 May 2025 – Aug 2025 
@@ -43,10 +43,10 @@ I’m **Mounica Jegurupati**, a passionate Data Analyst and AI Intern with a Mas
 - Collaborated with data engineers and clinicians to refine medical terminology models and reduce feedback resolution time.  
 - Completed training in InfoSec, Compliance, and Ethical Hacking.
 
-**Software Engineer** – *Netcracker Technology, Hyderabad*  
+**Data Engineer** – *Netcracker Technology, Hyderabad*  
 📅 Apr 2022 – Jun 2023  
-- Optimized C++ telecom billing solutions; reduced debugging time by 30%.  
-- Built and validated Release Candidates for production patching.
+- Performed SQL-based data validation and reconciliation checks post-billing runs to ensure correct application of discounts, tariffs, and revenue calculations.
+- Optimized data processing and debugging workflows, reducing issue resolution time by 30% and improving system performance and turnaround time.
 
 **Data Analyst** – *Sennight Technologies, Hyderabad*  
 📅 Aug 2019 – Sep 2021  
